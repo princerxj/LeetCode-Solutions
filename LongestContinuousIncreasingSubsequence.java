@@ -23,6 +23,6 @@ public class LongestContinuousIncreasingSubsequence {
     public static void main(String[] args) {
         int[] nums = {1,3,5,4,7};
         int ans = findLengthOfLCIS(nums);
-        System.out.println(ans);
+        System.out.println(ans); //Output
     }
 }
