@@ -1,7 +1,7 @@
 // Title: Minimum Number of Chairs in a Waiting Room
 // Difficulty: Easy
-// Tags: String , Simulationhttps://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/
-// URL:
+// Tags: String , Simulation
+// URL: https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/description/
 public class MinimumChairs {
     public static int minimumChairs(String s) {
         int current = 0;
