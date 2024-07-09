@@ -1,3 +1,7 @@
+// Title: Average Waiting Time
+// Difficulty: Medium
+// Tags: Array, Simulation
+// URL: https://leetcode.com/problems/average-waiting-time/description/
 public class AverageWaitingTime {
     public static double averageWaitingTime(int[][] customers) {
         int currentTime = 0;
